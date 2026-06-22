@@ -7,7 +7,11 @@ Height: 180 cm
 Activity: ███░░░░░░░
 
 Software Rendering
+
 Embedded Systems
+
 Runtime Development
+
 Reverse Engineering
+
 Python • Rust • C • C#
