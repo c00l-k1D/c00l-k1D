@@ -4,8 +4,6 @@
 
 Height: 180 cm
 
-Activity: ███░░░░░░░
-
 Software Rendering
 
 Embedded Systems
